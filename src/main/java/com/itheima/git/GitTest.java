@@ -13,4 +13,9 @@ public class GitTest {
     public void test1() {
         System.out.println("This is a git test project.");
     }
+
+    @Test
+    public void test2() {
+        System.out.println("This is test2.");
+    }
 }
